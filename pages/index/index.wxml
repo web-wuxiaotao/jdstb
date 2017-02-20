@@ -1,0 +1,6 @@
+<view class="name">石头剪刀布</view>
+<view class="img"><image src="/img/1.jpg"></image></view>
+
+<view class="text">
+    <navigator url="/pages/show/show" class="go">开始游戏</navigator>
+</view>
